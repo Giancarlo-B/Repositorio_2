@@ -1,0 +1,19 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+body{
+    background-color: coral;
+}
+.contenedor_2{
+    background-color: yellow;
+    color: white;
+    height: 150px;
+    width: 100%;
+}
+punteada{
+    background-color: aqua;
+    font-size: medium;
+    color: black;
+    text-align: center;
+}
